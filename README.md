@@ -11,7 +11,7 @@ pandas==1.5.2
 
 
 An Exceed Project by
-S.Likitha(22951A0592)
+S.Likhitha(22951A0592)
 T.Manasa(22951A0599)
 
 You check the web app hosted using the streamlit.io/cloud :  https://forestfirepredictor.streamlit.app/
